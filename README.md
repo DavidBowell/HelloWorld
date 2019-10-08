@@ -1,5 +1,5 @@
 # HelloWorld
 My First Attempt :)
-This is my first attepmt at doing some GIT stuff.
+This is my first attempt at doing some GIT editing  stuff.
 
 hooray :)
